@@ -17,3 +17,6 @@ The program should have the following capabilities:
 - The User can see current shopping list
 - The program Loops until user 'quits'
 - Upon quitting the program, print out all items in the user's list
+
+## Technologies Used:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
