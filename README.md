@@ -8,7 +8,7 @@ Day 3 of the Python unit as part of my coding bootcamp.
 - Declaring sets (.add(), .remove(), .intersection(), etc.)
 - Importing whole or parts of modules
 
-## Homework - Built a Shopping Cart:
+## Homework - Build a Shopping Cart:
 The program should have the following capabilities:
 
 - Takes in input
